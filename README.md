@@ -32,17 +32,17 @@ We performed extensive preprocessing to prepare the Arabic text for modeling, in
 
 We utilized several pickle files for mappings, sourced from AliOsm GitHub Repository:
 
-* 'ARABIC_LETTERS_LIST'
+* `ARABIC_LETTERS_LIST`
 
-* 'DIACRITICS_LIST'
+* `DIACRITICS_LIST`
 
-* 'RNN_SMALL_CHARACTERS_MAPPING'
+* `RNN_SMALL_CHARACTERS_MAPPING`
 
-* 'RNN_BIG_CHARACTERS_MAPPING'
+* `RNN_BIG_CHARACTERS_MAPPING`
 
-* 'RNN_CLASSES_MAPPING'
+* `RNN_CLASSES_MAPPING`
 
-* 'RNN_REV_CLASSES_MAPPING'
+* `RNN_REV_CLASSES_MAPPING`
 
 
 ## Exploratory Data Analysis (EDA)
